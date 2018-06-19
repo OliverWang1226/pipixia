@@ -8,21 +8,17 @@
 
 ### 1.游戏登录界面:
 
-![微信图片_20180619220704](C:\Users\wangt\Desktop\微信图片_20180619220704.jpg)
-
-
+![Alt text](https://github.com/OliverWang1226/pipixia/readmeImg/start.jpg) 
 
 ### 2.游戏界面:
 
-![微信图片_20180619220842](C:\Users\wangt\Desktop\微信图片_20180619220842.jpg)
-
-
+![Alt text](https://github.com/OliverWang1226/pipixia/readmeImg/game.jpg) 
 
 ### 3.游戏排行榜
 
-![微信图片_20180619220745](C:\Users\wangt\Desktop\微信图片_20180619220745.jpg)
 
 
+![Alt text](https://github.com/OliverWang1226/pipixia/readmeImg/rank.jpg) 
 
 
 
