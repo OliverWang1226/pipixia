@@ -8,17 +8,17 @@
 
 ### 1.游戏登录界面:
 
-![Alt text](https://github.com/OliverWang1226/pipixia/readmeImg/start.jpg) 
+![Alt text](https://github.com/OliverWang1226/pipixia/raw/master/readmeImg/start.jpg) 
 
 ### 2.游戏界面:
 
-![Alt text](https://github.com/OliverWang1226/pipixia/readmeImg/game.jpg) 
+![Alt text](https://github.com/OliverWang1226/pipixia/raw/master/readmeImg/game.jpg) 
 
 ### 3.游戏排行榜
 
 
 
-![Alt text](https://github.com/OliverWang1226/pipixia/readmeImg/rank.jpg) 
+![Alt text](https://github.com/OliverWang1226/pipixia/raw/master/readmeImg/rank.jpg) 
 
 
 
